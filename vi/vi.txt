@@ -1,0 +1,10 @@
+Vi commands:
+
+vi can create a new file
+vi abcd.txt
+
+press `i` to start editing
+
+press ESC and then:
+
+:wq -> save and exit 
