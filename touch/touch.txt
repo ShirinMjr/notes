@@ -1,4 +1,6 @@
 to create new file you can use touch command
+
+
 1. Create an Empty File using touch
 You can create an empty file using touch command. The following example will create a zero byte new file named tgs.txt.
 
@@ -6,6 +8,3 @@ $ touch tgs.txt
 You can also use -c option to avoid creating new files. If you use -c option, and if a file doesn’t exists, touch will not create the file.
 
 $ touch -c a.txt
-Commands like ls command and find command uses these timestamp information for listing and finding files.
-
-You can also create more than 1 files from a single touch command. The following example will create 4 files named a, b, c, and d.
